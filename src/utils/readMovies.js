@@ -42,3 +42,10 @@ export function rating(id) {
       break;
   }
 }
+
+export async function writeMovie(newMovies) {
+  const moviesToJson = JSON.stringify(newMovies, null, 2);
+  await fs.writeFile("./src/config/database.json", moviesToJson, {
+    encoding: "utf-8",
+  });
+}
