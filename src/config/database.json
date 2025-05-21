@@ -115,9 +115,9 @@
     "category": "movie",
     "genre": "Action",
     "director": "Sylvester Staloun",
-    "year": "1988",
+    "year": 1988,
     "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/a3/Rambo3poster.jpg",
-    "rating": "10",
+    "rating": 10,
     "description": "Rambo bestreitet eine Ein-Mann-Mission, um seinen Freund Colonel Trautman aus den Fängen der gewaltig einfallenden sowjetischen Streitkräfte in Afghanistan zu retten."
   },
   {
@@ -126,7 +126,7 @@
     "category": "movie",
     "genre": "Action Epic",
     "director": "Denis Villeneuve",
-    "year": "2024",
+    "year": 2024,
     "imageURL": "https://m.media-amazon.com/images/M/MV5BZGQ4NGFiODktODU5Ni00MzczLWEwODAtNDU3YTFiMGVjODhlXkEyXkFqcGc@._V1_QL75_UX656_.jpg",
     "rating": "8.5",
     "description": "Paul Atreides schließt sich mit Chani und den Fremen zusammen, um sich an den Verschwörern zu rächen, die seine Familie zerstört haben."
@@ -137,7 +137,7 @@
     "category": "movie",
     "genre": "Drama",
     "director": " Elijah Bynum",
-    "year": "2023",
+    "year": 2023,
     "imageURL": "https://m.media-amazon.com/images/M/MV5BYjYwMjkwMjItN2RhNS00OTczLThjYzItZTIyZTZlMjc4NGU4XkEyXkFqcGc@._V1_QL75_UX300_.jpg",
     "rating": "6.9",
     "description": "Ein schwarzer Amateur-Bodybuilder kämpft in dieser Erkundung von Berühmtheit und Gewalt darum, eine menschliche Verbindung zu finden."
