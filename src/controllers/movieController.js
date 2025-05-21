@@ -4,6 +4,11 @@ import { rating } from "../utils/readMovies.js";
 
 const movieController = Router();
 
+movieController.get("/search", (req, res) => {
+  const movies = movieService.getAll();
+  res.render("search", { movies });
+});
+
 movieController.get("/create", (req, res) => {
   res.render("create");
 });
