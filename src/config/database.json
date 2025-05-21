@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "category": "Movie",
+    "genre": "Sci-Fi",
+    "director": "Christopher Nolan",
+    "year": 2010,
+    "imageURL": "https://i.ebayimg.com/00/s/MTYwMFgxMDk3/z/LlUAAOSwm8VUwoRL/$_57.JPG?set_id=880000500F",
+    "rating": 8.8,
+    "description": "A skilled thief is given a chance at redemption if he can successfully perform an inception—planting an idea deep within a person's subconscious."
+  },
+  {
+    "id": 2,
+    "title": "The Matrix",
+    "category": "Movie",
+    "genre": "Action",
+    "director": "Lana & Lilly Wachowski",
+    "year": 1999,
+    "imageURL": "https://m.media-amazon.com/images/I/51oQqzZoZpL._AC_UF894,1000_QL80_.jpg",
+    "rating": 8.7,
+    "description": "A computer hacker learns that reality as he knows it is an illusion and joins a rebellion against its controllers."
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "category": "Movie",
+    "genre": "Sci-Fi",
+    "director": "Christopher Nolan",
+    "year": 2014,
+    "imageURL": "https://m.media-amazon.com/images/I/71JC2qvPx5L._AC_UF894,1000_QL80_.jpg",
+    "rating": 8.6,
+    "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "category": "Movie",
+    "genre": "Action",
+    "director": "Christopher Nolan",
+    "year": 2008,
+    "imageURL": "https://m.media-amazon.com/images/I/5151N2hUPiL._AC_UF894,1000_QL80_.jpg",
+    "rating": 9,
+    "description": "Batman faces his greatest adversary, the Joker, as chaos spreads across Gotham City."
+  },
+  {
+    "id": 5,
+    "title": "Avatar",
+    "category": "Movie",
+    "genre": "Sci-Fi",
+    "director": "James Cameron",
+    "year": 2009,
+    "imageURL": "https://i.ebayimg.com/00/s/MTYwMFgxMDY2/z/9cAAAOSwy8xir7bm/$_57.JPG?set_id=880000500F",
+    "rating": 7.8,
+    "description": "A paraplegic marine is dispatched to the moon Pandora on a unique mission, where he becomes torn between following orders and protecting the planet."
+  },
+  {
+    "id": 6,
+    "title": "Pulp Fiction",
+    "category": "Movie",
+    "genre": "Crime",
+    "director": "Quentin Tarantino",
+    "year": 1994,
+    "imageURL": "https://static.posters.cz/image/750/1288.jpg",
+    "rating": 8.9,
+    "description": "Interwoven stories of crime, redemption, and unexpected twists in Los Angeles."
+  },
+  {
+    "id": 7,
+    "title": "Forrest Gump",
+    "category": "Movie",
+    "genre": "Drama",
+    "director": "Robert Zemeckis",
+    "year": 1994,
+    "imageURL": "https://m.media-amazon.com/images/I/613ZgTigTpL._AC_UF894,1000_QL80_.jpg",
+    "rating": 8.8,
+    "description": "The life journey of Forrest Gump, a man with a good heart who inadvertently influences historical events."
+  },
+  {
+    "id": 8,
+    "title": "Gladiator",
+    "category": "Movie",
+    "genre": "Action",
+    "director": "Ridley Scott",
+    "year": 2000,
+    "imageURL": "https://m.media-amazon.com/images/I/61oLD5jgQIL.jpg",
+    "rating": 8.5,
+    "description": "A betrayed Roman general seeks vengeance against the corrupt emperor who murdered his family."
+  },
+  {
+    "id": 9,
+    "title": "Titanic",
+    "category": "Movie",
+    "genre": "Romance",
+    "director": "James Cameron",
+    "year": 1997,
+    "imageURL": "https://m.media-amazon.com/images/I/51cXzScT26L._AC_UF894,1000_QL80_.jpg",
+    "rating": 7.9,
+    "description": "A love story unfolds between two passengers aboard the ill-fated Titanic."
+  },
+  {
+    "id": 10,
+    "title": "The Shawshank Redemption",
+    "category": "Movie",
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "year": 1994,
+    "imageURL": "https://m.media-amazon.com/images/I/61cYvFrHKcL._AC_UF894,1000_QL80_.jpg",
+    "rating": 9.3,
+    "description": "A man wrongly imprisoned for murder forms a lasting bond with a fellow inmate while finding hope within the walls of Shawshank."
+  },
+  {
+    "id": 11,
+    "title": "Rambo III",
+    "category": "movie",
+    "genre": "Action",
+    "director": "Sylvester Staloun",
+    "date": "1988",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/a/a3/Rambo3poster.jpg",
+    "rating": "10",
+    "description": "Rambo bestreitet eine Ein-Mann-Mission, um seinen Freund Colonel Trautman aus den Fängen der gewaltig einfallenden sowjetischen Streitkräfte in Afghanistan zu retten."
+  }
+]
