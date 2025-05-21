@@ -17,7 +17,9 @@ export default {
     const newId = v4();
     movies.push({
       id: newId,
+
       ...data,
+      rating: Number(data.rating),
     });
 
     writeMovie(movies);
