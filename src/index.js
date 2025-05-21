@@ -1,10 +1,11 @@
-import express from "express";
+import express, { urlencoded } from "express";
 import { engine } from "express-handlebars";
 import routes from "./routes.js";
 
 const app = express();
 
 app.use("/static", express.static("src/public/"));
+app.use(urlencoded());
 app.use(routes);
 
 app.engine(
