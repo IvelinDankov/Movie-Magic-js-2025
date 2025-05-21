@@ -12,10 +12,14 @@
           <h1> {{this.title}} </h1>
           <h2>Genre: {{this.genre}} </h2>
           <p>Description: {{this.description}} </p>
-          <a href="#" class="details">Details</a>
+          <a href="" class="details">Details</a>
         </div>
       </div>
 
+    {{else}}
+      <div class="no-posts">
+        <p class="no-offer">There are no posts yet...</p>
+      </div>
     {{/each}}
 
     <!-- If there are still no posts in the database display: -->
