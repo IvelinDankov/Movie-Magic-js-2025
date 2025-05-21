@@ -13,13 +13,14 @@
   },
   "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "VD",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/IvelinDankov/Movie-Magic-js-2025/issues"
   },
   "homepage": "https://github.com/IvelinDankov/Movie-Magic-js-2025#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.3"
   }
 }
